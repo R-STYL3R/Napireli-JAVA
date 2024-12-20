@@ -1,5 +1,6 @@
 # Napireli-JAVA
 Completed technical task for the traineeship candidates of Anderson.
+[Completed Task](./Main/src/Main.java)
 
 # Given bracket sequence: [((())()(())]]
 - No, it's not correct
